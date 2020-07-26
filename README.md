@@ -1,5 +1,12 @@
 # Vue_Practice_frontend
-https://github.com/Guinness990122/Vue_Practice 의 프론트엔드입니다.
+Vue.js 연습용 프론트엔드입니다.
+
+# Developer
+Guinness
+
+# Tech Stack
+**Back-end** : Express(https://github.com/Guinness990122/Vue_Practice)<br>
+**Front-end** : Vue.js
 
 ## Getting start
 ### Project setup
